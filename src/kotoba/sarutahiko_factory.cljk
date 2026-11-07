@@ -35,7 +35,7 @@
   crate's own self-description)."
   {:plant/id "sarutahiko-factory"
    :plant/product "猿田彦 (sarutahiko) Class-8 cargo truck"
-   :plant/site "sarutahiko-factory.etzhayyim.com"
+   :plant/site "sarutahiko-factory.itonami.app"
    :plant/pattern :giemon-factory-4d-bim
    :plant/adr-refs ["ADR-2606013100" "ADR-2605252500" "ADR-2606010030"
                      "ADR-2607010000"]})
